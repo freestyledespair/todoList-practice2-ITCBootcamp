@@ -1,0 +1,30 @@
+form input {
+    border: 2px solid rgb(143, 59, 59);
+    margin-top: 50px;
+    margin-bottom: 30px;
+    width: 200px;
+    height: 50px;
+    border-radius: 2em;
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+input:hover {
+    background-color: rgb(206, 168, 168);
+}
+
+form button {
+    height: 55px;
+    border-radius: 20px;
+    margin-left: 10px;
+    background-color: rgba(100, 190, 40, 0.979);
+    border: none;
+}
+
+form button:hover {
+    border: 2px solid black;
+}
+
+form {
+    background-color: rgba(137, 43, 226, 0.216);
+}
