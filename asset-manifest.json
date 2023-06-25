@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todoList-practice2-ITCBootcamp/static/css/main.48aca49e.css",
+    "main.js": "/todoList-practice2-ITCBootcamp/static/js/main.1e144256.js",
+    "index.html": "/todoList-practice2-ITCBootcamp/index.html",
+    "main.48aca49e.css.map": "/todoList-practice2-ITCBootcamp/static/css/main.48aca49e.css.map",
+    "main.1e144256.js.map": "/todoList-practice2-ITCBootcamp/static/js/main.1e144256.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48aca49e.css",
+    "static/js/main.1e144256.js"
+  ]
+}
